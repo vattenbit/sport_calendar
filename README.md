@@ -1,6 +1,4 @@
 ![#sport_calendar] (https://raw.githubusercontent.com/CubeEight/sport_calendar/master/src/imagenes/logo_calendar.fw.png "Logo sport_calendar")
-#sport_calendar
-
 La creación de calendarios es siempre un problema cuando te planteas realizar una liga o un torneo, no importa si es de fútbol, de chapas o de tu juego online favorito. sport_calendar es un programa Open Source que te invita a realizarlo mediante el algoritmo que se utiliza por ejemplo en la liga nacional de fútbol. La idea principal es que ningún equipo juega mas de dos veces seguidas en casa y solo una vez con cada equipo.
 
 ##1. Versiones
